@@ -3,7 +3,7 @@ module github.com/go-composites/boolean
 go 1.26.4
 
 require (
-	github.com/go-composites/error v0.0.0-20260918235114-2990a9d33571
+	github.com/go-composites/error v0.0.0-20260926002113-8ebf8341ff74
 	github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23
 	github.com/go-composites/result v0.0.0-20260920235032-53e0a08ef62b
 	github.com/go-composites/string v0.0.0-20260923203504-638b4dae9bfb
