@@ -6,14 +6,14 @@ require (
 	github.com/go-composites/error v0.0.0-20260926002113-8ebf8341ff74
 	github.com/go-composites/null v0.0.0-20260903220223-c1d743488d23
 	github.com/go-composites/result v0.0.0-20260927170344-f2c7344faeef
-	github.com/go-composites/string v0.0.0-20260927170334-9ca1380a1e31
+	github.com/go-composites/string v0.0.0-20260929013001-cb2d117dac32
 	github.com/onsi/ginkgo/v2 v2.33.0
 	github.com/onsi/gomega v1.44.0
 )
 
 require (
 	github.com/Masterminds/semver/v3 v3.4.0 // indirect
-	github.com/go-composites/array v0.0.0-20260922235702-4fc43dd1da2c // indirect
+	github.com/go-composites/array v0.0.0-20260927173101-add77aa5108b // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
 	github.com/google/go-cmp v0.7.0 // indirect
