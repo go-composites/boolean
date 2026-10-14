@@ -3,9 +3,9 @@ module github.com/go-composites/boolean
 go 1.27.1
 
 require (
-	github.com/go-composites/error v0.0.0-20261010193309-cf4c6a8fe7d6
+	github.com/go-composites/error v0.0.0-20261012005711-d4891be7e6e3
 	github.com/go-composites/null v0.0.0-20261010193318-b5bad10074b1
-	github.com/go-composites/result v0.0.0-20261010193418-dbdc812ef047
+	github.com/go-composites/result v0.0.0-20261012005857-be3ad337161a
 	github.com/go-composites/string v0.0.0-20261010193444-fca5de1d040d
 	github.com/onsi/ginkgo/v2 v2.33.1
 	github.com/onsi/gomega v1.44.0
