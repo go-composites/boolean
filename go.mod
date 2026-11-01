@@ -3,10 +3,10 @@ module github.com/go-composites/boolean
 go 1.27.1
 
 require (
-	github.com/go-composites/error v0.0.0-20261012005711-d4891be7e6e3
-	github.com/go-composites/null v0.0.0-20261010193318-b5bad10074b1
-	github.com/go-composites/result v0.0.0-20261014005241-188da08131d5
-	github.com/go-composites/string v0.0.0-20261017234520-ecd10f637643
+	github.com/go-composites/error v0.0.0-20261031224832-70f51e843a7d
+	github.com/go-composites/null v0.0.0-20261031224807-35430d41335f
+	github.com/go-composites/result v0.0.0-20261031230227-bb71e8719d57
+	github.com/go-composites/string v0.0.0-20261031224716-cc307399f1c8
 	github.com/onsi/ginkgo/v2 v2.33.1
 	github.com/onsi/gomega v1.44.0
 )
