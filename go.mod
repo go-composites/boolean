@@ -5,9 +5,9 @@ go 1.27.1
 require (
 	github.com/go-composites/error v0.0.0-20261031224832-70f51e843a7d
 	github.com/go-composites/null v0.0.0-20261031224807-35430d41335f
-	github.com/go-composites/result v0.0.0-20261031230227-bb71e8719d57
+	github.com/go-composites/result v0.0.0-20261102011533-cd3658257f2b
 	github.com/go-composites/string v0.0.0-20261031224716-cc307399f1c8
-	github.com/onsi/ginkgo/v2 v2.33.1
+	github.com/onsi/ginkgo/v2 v2.34.0
 	github.com/onsi/gomega v1.44.0
 )
 
